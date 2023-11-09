@@ -1,0 +1,41 @@
+{
+  "mode": "searchForNode",
+  "highlightConfig": {
+    "showInfo": true,
+    "contentColor": {
+      "r": 153,
+      "g": 204,
+      "b": 255,
+      "a": 0.7
+    }
+    //"borderColor": {
+    //  "r": 0,
+    //  "g": 76,
+    //  "b": 153,
+    //  "a": 0.7
+    //},
+    //"shape": {
+    //  "r": 0,
+    //  "g": 0,
+    //  "b": 0,
+    //  "a": 0.7
+    //}
+    //"gridHighlightConfig": {
+    //  "showGridExtensionLines": true,
+    //  "gridBorderDash": true,
+    //  "gridBorderColor": {
+    //    "r": 0,
+    //    "g": 76,
+    //    "b": 153,
+    //    "a": 0.7
+    //  }
+    //}
+    //,
+    //"paddingColor": {
+    //  "r": 204,
+    //  "g": 225,
+    //  "b": 204,
+    //  "a": 0.7
+    //}
+  }
+}
